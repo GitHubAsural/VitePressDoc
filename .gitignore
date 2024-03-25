@@ -1,0 +1,26 @@
+# OSX
+._*
+.env
+dist
+build
+cache
+.temp
+.cache
+*.local
+.github
+.vitepress
+*/.DS_Store
+.Spotlight-V100
+*.code-workspace
+.DS_Store
+.DS_Store?
+.Trashes
+Icon?
+log
+html2md
+dist-ssr
+Thumbs.db
+README.md
+ehthumbs.db
+operation.py
+node_modules
